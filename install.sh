@@ -7,7 +7,7 @@ HYDROGEN_INSTALLER_URL="https://0ai4bbbahf.ufs.sh/f/4fzhZqSSYIjmt8OGDr546yzQVkLw
 HYDROGEN_M_URL="https://0ai4bbbahf.ufs.sh/f/4fzhZqSSYIjmwLOYvnLyRu4HmMXkvGhDw8SctAIPEs3BrTpU"
 
 ROBLOX_URL_ARM="https://setup.rbxcdn.com/mac/arm64/version-9e55b34566734c3b-RobloxPlayer.zip"
-ROBLOX_URL_X86="https://setup.rbxcdn.com/mac/version-b29f0194bebd445b-RobloxPlayer.zip"
+ROBLOX_URL_X86="https://setup.rbxcdn.com/mac/version-9e55b34566734c3b-RobloxPlayer.zip"
 
 TMP_DIR="/tmp"
 INSTALLER_BIN="$TMP_DIR/hydrogen_installer"
